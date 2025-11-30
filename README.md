@@ -220,19 +220,3 @@ If needed, specify manually inside `run_on_dataset()`.
 
 ---
 
-## 🏁 Final Notes
-
-This project is **production-ready**, fully modular, and can be extended to:
-
-- REST API (FastAPI/Flask)
-- Browser extension payload inspection
-- WAF (Web Application Firewall) plugin
-- Real-time request monitoring
-- Auto-retraining using feedback loop
-
-If you'd like, I can generate:
-- A full **project report PDF**
-- **UML diagrams**
-- **Block diagrams**
-- **Architecture diagrams**
-- A **PowerPoint presentation** summarizing the project
